@@ -43,7 +43,10 @@
 
 		//add that image to whatever drop zone we are dropping our image on
 		event.target.appendChild(document.querySelector(`#${currentImage}`));
+
+		if 
 	}
+	function 
 
 	// add event handling here ==> how is the user going to use our app?
 	// what triggers do we need?
