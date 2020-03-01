@@ -1,5 +1,5 @@
 # Drag And Drop Project:puzzle:
-![Website logo ](/images/afford_your_dreams_logo.jpg)
+![Website logo ](/images/readme.png)
 
 ## *````Puzzle Fun````*:heavy_check_mark:
 
