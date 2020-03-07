@@ -44,7 +44,8 @@
 			console.log('drag over a drop zone');
 
 		}
-		// event.dataTransfer.setData("src", this.class);
+		//debugger;
+		event.dataTransfer.setData("src", this.class);
 	}
 
 	function allowDrop(event) {
